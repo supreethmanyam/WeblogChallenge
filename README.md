@@ -1,3 +1,6 @@
+### Solution:
+1. Scala zeppelin notebook is uploaded as json and published [here](https://www.zepl.com/viewer/notebooks/bm90ZTovL3N1cHJlZXRobWFueWFtL2RjNTFkM2JiOTI2NjQzMjI4N2YyY2I2OTRiMTI2OTZlL25vdGUuanNvbg)
+2. python solution notebook [here](https://github.com/supreethmanyam/WeblogChallenge/blob/master/python/WeblogChallenge.ipynb)
 # WeblogChallenge
 This is an interview challenge for Paytm Labs. Please feel free to fork. Pull Requests will be ignored.
 
